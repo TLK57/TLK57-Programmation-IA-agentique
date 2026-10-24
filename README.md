@@ -67,4 +67,4 @@ Soutenances : janvier/février 2027 puis fin mars 2027 (dates à confirmer).
 | Victor | Gemini | Comparaison des outils |
 | Équipe | Stratégie A sur tous les outils | Critères d'évaluation, conclusion |
 
-Le suivi du planning se fait dans le diagramme de Gantt partagé.
+Le planning complet (diagramme de Gantt) est dans [`docs/planning.md`](docs/planning.md).
