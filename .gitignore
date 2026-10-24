@@ -1,0 +1,28 @@
+# Dépendances et builds
+node_modules/
+vendor/
+dist/
+build/
+target/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets : ne jamais committer de clés d'API
+.env
+.env.*
+*.key
+
+# IDE et système
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Bases locales et rapports d'analyse générés
+*.sqlite
+*.db
+.scannerwork/
+coverage/
